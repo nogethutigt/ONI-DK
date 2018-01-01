@@ -323,62 +323,63 @@ msgctxt "STRINGS.BUILDING.STATUSITEMS.CLINICOUTSIDEHOSPITAL.TOOLTIP"
 msgid ""
 "Rebuild this medical equipment in a Med Bay to more effectively quarantine "
 "sick Duplicants"
-msgstr ""
+msgstr "Genplacer dette medicinal udstyr i en Med Bay for at opnå en mere effektiv karantæne "
+"syg Duplicants"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKED.NAME"
 msgid "Pipe Blocked"
-msgstr ""
+msgstr "Rør Blokering"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKED.TOOLTIP"
 msgid "This pipe system is not serviceable"
-msgstr ""
+msgstr "Dette rørsystem er ikke anvendeligt"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONSTRUCTABLEDIGUNREACHABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONSTRUCTABLEDIGUNREACHABLE.NAME"
 msgid "Unreachable Dig"
-msgstr ""
+msgstr "Utilgænglig Udgravning"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONSTRUCTABLEDIGUNREACHABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONSTRUCTABLEDIGUNREACHABLE.TOOLTIP"
 msgid "This construction site contains cells that cannot be dug out"
-msgstr ""
+msgstr "Denne byggeplads indeholder celler som ikke kan udgraves"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONSTRUCTIONUNREACHABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONSTRUCTIONUNREACHABLE.NAME"
 msgid "Unreachable Build"
-msgstr ""
+msgstr "Utilgænglig Bygning"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONSTRUCTIONUNREACHABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONSTRUCTIONUNREACHABLE.TOOLTIP"
 msgid "Duplicants cannot reach this construction site"
-msgstr ""
+msgstr "Duplicants kan ikke komme frem til denne byggeplads"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONSUMINGFROMSTORAGE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONSUMINGFROMSTORAGE.NAME"
 msgid "Consuming {ElementTypes}: {FlowRate}"
-msgstr ""
+msgstr "Forbrug {ElementTypes}: {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONSUMINGFROMSTORAGE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONSUMINGFROMSTORAGE.TOOLTIP"
 msgid "This building is consuming {ElementTypes} from storage"
-msgstr ""
+msgstr "Denne bygning forbruger {ElementTypes} fra lagerrum"
 
 #. STRINGS.BUILDING.STATUSITEMS.COOLING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COOLING.NAME"
 msgid "Cooling"
-msgstr ""
+msgstr "Køling"
 
 #. STRINGS.BUILDING.STATUSITEMS.COOLING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COOLING.TOOLTIP"
 msgid "This building is cooling the surrounding area"
-msgstr ""
+msgstr "Denne bygning køler det omkringliggende område"
 
 #. STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDCOLDGAS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDCOLDGAS.NAME"
 msgid "Gas Too Cold"
-msgstr ""
+msgstr "Gas er for kold"
 
 #. STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDCOLDGAS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDCOLDGAS.TOOLTIP"
@@ -387,11 +388,14 @@ msgid ""
 "\n"
 "Current Pipe Contents: {0}"
 msgstr ""
+"This building cannot cool incoming pipe contents below {0}\n"
+"\n"
+"Current Pipe Contents: {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDCOLDLIQUID.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDCOLDLIQUID.NAME"
 msgid "Liquid Too Cold"
-msgstr ""
+msgstr "Væsken er for kold"
 
 #. STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDCOLDLIQUID.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDCOLDLIQUID.TOOLTIP"
@@ -400,11 +404,14 @@ msgid ""
 "\n"
 "Current Pipe Contents: {0}"
 msgstr ""
+"This building cannot cool incoming pipe contents below {0}\n"
+"\n"
+"Current Pipe Contents: {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDHOTENV.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDHOTENV.NAME"
 msgid "Gas Too Hot"
-msgstr ""
+msgstr "Gas er for varm"
 
 #. STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDHOTENV.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDHOTENV.TOOLTIP"
@@ -414,12 +421,14 @@ msgid ""
 "\n"
 "Environment: {0}\n"
 "Current Pipe Contents: {1}"
-msgstr ""
+msgstr "Denne bygning kan ikke køle inholdet af rørene nedenunder {0}\n"
+"\n"
+"Nuværende rør indhold: {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDHOTLIQUID.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDHOTLIQUID.NAME"
 msgid "Liquid Too Hot"
-msgstr ""
+msgstr "Væsken er for varm"
 
 #. STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDHOTLIQUID.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDHOTLIQUID.TOOLTIP"
@@ -429,57 +438,61 @@ msgid ""
 "\n"
 "Environment: {0}\n"
 "Current Pipe Contents: {1}"
-msgstr ""
+msgstr "Indhold af rørene kan ikke køles mere end {2} under de omkring liggende "
+"omgivelser\n"
+"\n"
+"Omgivelser: {0}\n"
+"Nuværende rør indhold: {1}"
 
 #. STRINGS.BUILDING.STATUSITEMS.CREATURE_TRAP.NEEDSBAIT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CREATURE_TRAP.NEEDSBAIT.NAME"
 msgid "Needs Bait"
-msgstr ""
+msgstr "Lokkemad behøves"
 
 #. STRINGS.BUILDING.STATUSITEMS.CREATURE_TRAP.NEEDSBAIT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CREATURE_TRAP.NEEDSBAIT.TOOLTIP"
 msgid "This trap needs to be baited before it can be set"
-msgstr ""
+msgstr "Denne fælde har brug for lokkemad før den kan bruges"
 
 #. STRINGS.BUILDING.STATUSITEMS.CREATURE_TRAP.READY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CREATURE_TRAP.READY.NAME"
 msgid "Set"
-msgstr ""
+msgstr "Klar"
 
 #. STRINGS.BUILDING.STATUSITEMS.CREATURE_TRAP.READY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CREATURE_TRAP.READY.TOOLTIP"
 msgid "This trap has been set and is ready to catch a creature"
-msgstr ""
+msgstr "Denne fælde er klargjort og klar til at fange væsner "
 
 #. STRINGS.BUILDING.STATUSITEMS.CREATURE_TRAP.SPRUNG.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CREATURE_TRAP.SPRUNG.NAME"
 msgid "Sprung"
-msgstr ""
+msgstr "Klappet"
 
 #. STRINGS.BUILDING.STATUSITEMS.CREATURE_TRAP.SPRUNG.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CREATURE_TRAP.SPRUNG.TOOLTIP"
 msgid "This trap has caught a {0}!"
-msgstr ""
+msgstr "Denne fælde har fanget en {0}!"
 
 #. STRINGS.BUILDING.STATUSITEMS.CURRENTDOORCONTROLSTATE.AUTO
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CURRENTDOORCONTROLSTATE.AUTO"
 msgid "Auto"
-msgstr ""
+msgstr "Auto"
 
 #. STRINGS.BUILDING.STATUSITEMS.CURRENTDOORCONTROLSTATE.CLOSED
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CURRENTDOORCONTROLSTATE.CLOSED"
 msgid "Locked"
-msgstr ""
+msgstr "Låst"
 
 #. STRINGS.BUILDING.STATUSITEMS.CURRENTDOORCONTROLSTATE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CURRENTDOORCONTROLSTATE.NAME"
 msgid "Current State: {ControlState}"
-msgstr ""
+msgstr "Nuværende tilstand: {ControlState}"
 
 #. STRINGS.BUILDING.STATUSITEMS.CURRENTDOORCONTROLSTATE.OPENED
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CURRENTDOORCONTROLSTATE.OPENED"
 msgid "Opened"
-msgstr ""
+msgstr "Åben"
 
 #. STRINGS.BUILDING.STATUSITEMS.CURRENTDOORCONTROLSTATE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CURRENTDOORCONTROLSTATE.TOOLTIP"
@@ -490,6 +503,11 @@ msgid ""
 "Locked: Nothing may pass through\n"
 "Open: This door will remain open"
 msgstr ""
+"Nuværende tilstand: {ControlState}\n"
+"------------------\n"
+"Auto: Duplicants åbner og lukker denne dør efter behov\n"
+"Låst: Ingen kan gå igennem\n"
+"Åben: Denne dør vil forblive åben"
 
 #. STRINGS.BUILDING.STATUSITEMS.DIGUNREACHABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DIGUNREACHABLE.NAME"
